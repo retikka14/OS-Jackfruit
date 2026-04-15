@@ -4,8 +4,8 @@
 
 | Name     | SRN  |
 | -------- | ---- |
-| Member 1 | SRN1 |
-| Member 2 | SRN2 |
+| G S Retikka Prasad | PES2UG24AM057 |
+| Araton Immanuel| PES2UG24AM004 |
 
 ## Build & Run
 
